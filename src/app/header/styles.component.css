@@ -1,0 +1,39 @@
+.Rubiscape--headder{
+    display: flex;
+    box-shadow: rgba(97, 101, 106, 0.2) 10px 18px 24px;
+    background-color: #d4d4d6;
+    padding-top: 0px;
+    border-radius: 3px;
+    
+    
+}
+
+/* .logo{
+    width: 40px;
+    height: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+} */
+
+.Rubiscape-logo{
+    padding: 15px 30px;
+    text-decoration: solid;
+    font-size: larger;
+    font-weight: bolder;
+    font-size:190%;
+  
+}
+
+.rubiscape--header--nav{
+    padding: 30px 30px;
+    width: 85%;
+    text-align: right;
+    font-size: large;
+}
+
+.rubiscape--header--nav a{
+    margin: 5px 10px;
+    text-decoration: none;
+    color: #28282B;
+}
+
